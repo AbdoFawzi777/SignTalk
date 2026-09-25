@@ -1,0 +1,58 @@
+# SignTalk Master .gitignore
+
+# Python & AI Engine
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+mobile_app/build/
+enterprise_platform/mobile_engine/build/
+*.iml
+.idea/
+.vscode/
+
+# Node.js & React Web Portal
+node_modules/
+enterprise_platform/web_portal/node_modules/
+.vite/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
