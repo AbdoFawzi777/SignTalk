@@ -1,13 +1,15 @@
 # 🤟 SignTalk: Real-Time Sign Language Translator Platform
 
 [![SignTalk Banner](https://img.shields.io/badge/SignTalk-Graduation_Project_2026-6C5CE7?style=for-the-badge&logo=flutter)](https://github.com/AbdoFawzi777/SignTalk)
-[![Live Website](https://img.shields.io/badge/Live_Website-Online_Brex_Style-ff5900?style=for-the-badge&logo=googlechrome)](https://abdofawzi777.github.io/SignTalk/)
+[![Live Website](https://img.shields.io/badge/Live_Website-Firebase_Hosting-ff5900?style=for-the-badge&logo=firebase)](https://signtalk-enterprise.web.app)
 [![Budget](https://img.shields.io/badge/Budget-%240_100%25_Free-2ED573?style=for-the-badge)](https://github.com/AbdoFawzi777/SignTalk)
 [![Framework](https://img.shields.io/badge/Mobile-Flutter_3.x-00CEC9?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![AI Engine](https://img.shields.io/badge/AI_Engine-MediaPipe_%7C_TensorFlow_Lite-FF6B81?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-> 🌐 **رابط الموقع المباشر (Live Hosted Website):** [https://abdofawzi777.github.io/SignTalk/](https://abdofawzi777.github.io/SignTalk/)
+> 🌐 **رابط المنصة الرسمي على Firebase (Official Clean Domain):**
+> - **[https://signtalk-enterprise.web.app](https://signtalk-enterprise.web.app)**
+> - **[https://signtalk-enterprise.firebaseapp.com](https://signtalk-enterprise.firebaseapp.com)**
 
 **SignTalk** is a smart, two-way, zero-latency real-time sign language translation mobile platform engineered specifically for deaf and hard-of-hearing individuals (الصم والبكم). 
 
